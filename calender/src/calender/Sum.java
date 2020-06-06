@@ -18,5 +18,6 @@ public static void main(String[] args) {
 	b = Integer.parseInt(s2);
 	System.out.println(a+"+"+b+"="+(a+b));
 	System.out.printf("%d + %d = %d", a,b,a+b);
+	sc.close();
 }
 }
